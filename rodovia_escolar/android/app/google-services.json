@@ -1,0 +1,156 @@
+{
+  "project_info": {
+    "project_number": "836036084186",
+    "firebase_url": "https://rodoviaescolar-e6bf7.firebaseio.com",
+    "project_id": "rodoviaescolar-e6bf7",
+    "storage_bucket": "rodoviaescolar-e6bf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836036084186:android:a5044e1a63d10f6c",
+        "android_client_info": {
+          "package_name": "com.example.app_dezani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836036084186-u2i3ks9rmn4cqg8fjqokvu84o42ieind.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZoejtKKLvtebzPgIIQTMPDjba1XGykco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836036084186-u2i3ks9rmn4cqg8fjqokvu84o42ieind.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836036084186:android:4910ae91c6e108db",
+        "android_client_info": {
+          "package_name": "com.example.merda_do_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836036084186-u2i3ks9rmn4cqg8fjqokvu84o42ieind.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZoejtKKLvtebzPgIIQTMPDjba1XGykco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836036084186-u2i3ks9rmn4cqg8fjqokvu84o42ieind.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836036084186:android:4ac4e4db4430c871",
+        "android_client_info": {
+          "package_name": "com.example.rodovia_escolar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836036084186-u2i3ks9rmn4cqg8fjqokvu84o42ieind.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZoejtKKLvtebzPgIIQTMPDjba1XGykco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836036084186-u2i3ks9rmn4cqg8fjqokvu84o42ieind.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836036084186:android:3351fbd485883147",
+        "android_client_info": {
+          "package_name": "com.example.rodoviaescolar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836036084186-u2i3ks9rmn4cqg8fjqokvu84o42ieind.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZoejtKKLvtebzPgIIQTMPDjba1XGykco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836036084186-u2i3ks9rmn4cqg8fjqokvu84o42ieind.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836036084186:android:564fef785adaa7b9",
+        "android_client_info": {
+          "package_name": "com.transapp.rodovia_escolar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836036084186-u2i3ks9rmn4cqg8fjqokvu84o42ieind.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZoejtKKLvtebzPgIIQTMPDjba1XGykco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836036084186-u2i3ks9rmn4cqg8fjqokvu84o42ieind.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
